@@ -30,9 +30,9 @@ return [
     |
     */
 
-    'logo' => '<b>Curso</b>L5.5',
+    'logo' => '<b>CuckusBrack</b>',
 
-    'logo_mini' => '<b>L</b>5.5',
+    'logo_mini' => '<b>CuckusBrack</b>',
 
     /*
     |--------------------------------------------------------------------------
